@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a develop frontend & backend.
+Java, python, C++, C, Arduino.
+
+
 <!--
 **LordDeep69/LordDeep69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

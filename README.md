@@ -4,8 +4,8 @@ I'm a develop frontend & backend.
 Java, python, C++, C, Arduino.
 
 Connect with me:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anyerson-ayola-pereira/)
+
 
 
 ### Herramientas Dominadas

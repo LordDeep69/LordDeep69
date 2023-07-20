@@ -5,7 +5,7 @@ Java, python, C++, C, Arduino.
 
 Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/anyerson-ayola-pereira/)
+(https://www.linkedin.com/in/anyerson-ayola-pereira/)
 
 
 ### Herramientas Dominadas

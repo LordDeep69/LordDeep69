@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a develop frontend & backend.
+ |Frontend Developer| |SoftWare Developer|
 Java, python, C++, C, Arduino.
 
 Connect with me:

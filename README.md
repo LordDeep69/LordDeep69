@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+¡Hola! Soy un apasionado desarrollador front-end e ingeniero mecatrónico con más de 3 años de experiencia en tecnologías como React.jsx, SCSS, HTML, y JavaScript, lo que me ha permitido crear interfaces de usuario modernas y receptivas. Además, tengo habilidades en Flutter para desarrollar aplicaciones móviles funcionales y atractivas. Mi experiencia en sistemas de control autónomos, con enfoque en inteligencia artificial y aprendizaje automático, me ha desafiado a encontrar soluciones innovadoras para problemas técnicos complejos. Mi pasión por la tecnología y la resolución de problemas, junto con mi amplia experiencia, me capacitan para abordar desafíos con eficacia y colaborar en equipos talentosos para crear soluciones innovadoras y transformadoras en este campo en constante evolución.
  |Frontend Developer| |SoftWare Developer|
 Java, python, C++, C, Arduino.
 
